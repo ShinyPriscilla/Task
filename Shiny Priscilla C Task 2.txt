@@ -1,4 +1,4 @@
-1)Fetch the list of available employee’s details .
+1.)Fetch the list of available employee’s details .
 GET
 REQUEST: https://reqres.in/api/users?page=2
 REQUEST CODE:200
